@@ -1,2 +1,10 @@
-# Politics--Law
-Personal website of Alex Theo Somah-- Political science student
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Site</title>
+</head>
+<body>
+    <h1>Hello World! 🎉</h1>
+    <p>My GitHub Pages site is live!</p>
+</body>
+</html>
